@@ -1,0 +1,16 @@
+{
+  "name": "contract-farming",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Assured Contract Farming System - run backend and frontend together",
+  "scripts": {
+    "install:all": "npm install --prefix backend && npm install --prefix frontend",
+    "dev": "concurrently -n backend,frontend -c blue,green \"npm run dev --prefix backend\" \"npm run dev --prefix frontend\"",
+    "start": "concurrently -n backend,frontend -c blue,green \"npm start --prefix backend\" \"npm run dev --prefix frontend\"",
+    "setup": "node scripts/setup.js",
+    "seed-users": "npm run seed-users --prefix backend"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
