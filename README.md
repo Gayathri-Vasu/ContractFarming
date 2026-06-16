@@ -357,10 +357,6 @@ This is a project for S0385 - Smart Agriculture Innovation Program. Contribution
 
 This project is created for educational purposes as part of the Smart Agriculture Innovation Program.
 
-## 👥 Authors
-
-- Project: S0385 – Assured Contract Farming System
-- Developed for: Smart Agriculture Innovation Program
 
 ## 📞 Support
 
