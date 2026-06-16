@@ -1,4 +1,4 @@
-# S0385 – Assured Contract Farming System for Stable Market Access
+# Assured Contract Farming System for Stable Market Access
 
 A complete full-stack web application that enables assured contract farming by connecting farmers directly with buyers through transparent agreements, stable pricing, and secure payments.
 
