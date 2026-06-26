@@ -339,13 +339,9 @@ To test the application:
 ## 📈 Future Enhancements
 
 - [ ] Price history and analytics dashboard
-- [ ] Advanced rating and review system
 - [ ] Contract expiration alerts
-- [ ] Downloadable contract PDF generation
 - [ ] Multilingual support (English + Regional languages)
-- [ ] Mobile app (React Native)
-- [ ] Real-time chat between farmers and buyers
-- [ ] Weather integration for harvest predictions
+- [ ] Mobile app
 - [ ] Crop quality certification system
 - [ ] Advanced search and filtering
 
