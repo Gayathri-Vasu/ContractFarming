@@ -349,20 +349,10 @@ To test the application:
 - [ ] Crop quality certification system
 - [ ] Advanced search and filtering
 
-## 🤝 Contributing
-
-This is a project for S0385 - Smart Agriculture Innovation Program. Contributions are welcome!
-
 ## 📄 License
 
-This project is created for educational purposes as part of the Smart Agriculture Innovation Program.
+This project is created for educational purposes as part of the S8 Project.
 
-
-## 📞 Support
-
-For issues and questions, please create an issue in the repository.
-
----
 
 **Built with ❤️ for farmers and buyers**
 
